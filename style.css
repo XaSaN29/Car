@@ -107,10 +107,6 @@ font-weight: 400;
 line-height: 140%;
 }
 
-.car-funktion_info_ikki_img_div{
-  
-}
-
 .car-funktion_info_ikki_h_div{
     padding-top: 20px;
 }
@@ -126,4 +122,17 @@ line-height: 140%;
 
 .car-funktion_info_uch_p_div{
     padding-top: 4px;
+}
+
+/* car-funktion_start */
+.car-funktion_start_div{
+    padding-left: 610px;
+    padding-top: 56px;
+}
+
+.car-funktion_start{
+ width: 90px;
+height: 90px;
+flex-shrink: 0;
+border-radius: 50px;
 }
