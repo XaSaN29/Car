@@ -170,6 +170,7 @@ line-height: 140%;
     padding-top: 24px;
 }
 .car_menyu_info_p{
+color: var(--text-color, #BABEC4);
 font-family: Exo;
 font-size: 16px;
 font-style: normal;
@@ -207,10 +208,116 @@ line-height: 140%;
     padding-left: 420px;
 }
 
+.card_model_card{
+    padding-top: 64px;
+    display: flex;
+    justify-content: center;
+    gap: 48px;
+}
 .card_model_title_h{
  font-family: Exo;
 font-size: 24px;
 font-style: normal;
 font-weight: 600;
 line-height: 140%;
+}
+
+.card_model_cardbir_div{
+    width: 258px;
+height: 328px;
+flex-shrink: 0;
+border-radius: 20px;
+background: var(--container-color, #111213);
+}
+
+.card_model_cardbir_text{
+    padding-top: 32px;
+    padding-left: 24px;
+}
+
+.card_model_cardbir_text_h{
+ color: var(--title-color, #F1F2F3);
+ font-family: Exo;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 140%;
+}
+
+.card_model_cardbir_text_p{
+ color: var(--text-color, #BABEC4);
+ font-family: Exo;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 140%;
+}
+
+.card_model_cardbir_img_div{
+    padding-top: 12px;
+    padding-left: 56px;
+}
+
+.card_model_cardbir_info{
+    padding-top: 21px;
+    padding-left: 24px;
+    display: flex;
+    gap: 20px;
+}
+
+.card_model_cardbir_info_bir{
+    display: flex;
+    gap: 4px;
+}
+
+.card_model_cardbir_info_bir_img{
+    width: 16px;
+height: 16px;
+flex-shrink: 0;
+}
+
+.card_model_cardbir_info_bir_p{
+ color: var(--white-color, #FFF);
+font-family: Exo;
+font-size: 13px;
+font-style: normal;
+font-weight: 400;
+line-height: 140%; 
+}
+
+.card_model_cardbir_narxi{
+    padding-top: 57px;
+    padding-left: 24px;
+}
+.card_model_cardbir_sotish{
+    display: flex;
+    gap: 91px;
+}
+.card_model_cardbir_narxi_h{
+    color: var(--white-color, #FFF);
+font-family: Exo;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 140%;
+}
+
+.card_model_cardbir_sotibolish_div{
+    padding-top: 56px;
+    padding-left: 10px;
+}
+.card_model_cardbir_sotibolish{
+display: inline-flex;
+width: 56px;
+height: 48px;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+border-radius: 20px 0px;
+background: var(--first-color, #4177DC);
+}
+
+.card_model_uchnuqta_img{
+    padding-top: 48px;
+    padding-left: 620px;
 }
