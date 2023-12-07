@@ -321,3 +321,44 @@ background: var(--first-color, #4177DC);
     padding-top: 48px;
     padding-left: 620px;
 }
+
+/* xususiyat */
+
+.xususiyat{
+    padding-top: 72px;
+}
+.xususiyat_car_img{
+    border-radius: 1000px;
+    background: linear-gradient(180deg, rgba(97, 97, 244, 0.484) 0%, rgba(3, 3, 82, 0.379) 100%);
+
+}
+
+/* tanlang */
+
+.tanlang{
+    padding-top: 72px;
+}
+
+
+/* tugashi */
+
+.tugashi{
+    padding-top: 72px;
+}
+
+.tugashi_div{
+    background: linear-gradient(180deg, rgba(167, 167, 172, 0.2) 0%, rgba(10, 10, 11, 0.50) 100%);
+}
+
+.tugashi_img{
+    padding-top: 50px;
+}
+
+.tugashi_imgikki_div{
+    padding-top: 172px;
+}
+
+.tugashi_imgikki{
+    width: 1510px;
+    height: 150px;
+}
